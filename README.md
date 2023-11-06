@@ -6,11 +6,11 @@
 
 
 ## Hi there 👋
-## My name  Olena Ponomarova :wave: I'm QA Authomation and Manual Engeener with 3+ years experience <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="55"> 
+## My name  Olena Ponomarova 😊 I'm QA Authomation and Manual Engeener 💻 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="55"> 
 - 🌱 my creodo is always believe in yourself 
 - :mailbox:How to find me:<div id="badges">
  
-  <a href="www.linkedin.com/in/olenaponomarova">
+  <a href="https://www.linkedin.com/in/olenaponomarova">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  
