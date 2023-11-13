@@ -8,7 +8,7 @@
 ---
 
 ## Hi there 👋
-## My name  Olena Ponomarova 😊 I'm QA Authomation and Manual Engeener 💻 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="55"> 
+## My name  Olena Ponomarova 😊 I'm QA Automation and Manual Engineer 💻 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="55"> 
 ---
 
   <img align="right"  src="https://media.giphy.com/media/W2KZgZo97jtC313Hn9/giphy.gif">
