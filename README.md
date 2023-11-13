@@ -1,6 +1,6 @@
  <p align="center">
   
-  <img  src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" Width="900"   height="600"> 
+  <img  src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" Width="900"   height="500"> 
   
  </p>
  
@@ -13,7 +13,7 @@
 
   <img align="right"  src="https://media.giphy.com/media/W2KZgZo97jtC313Hn9/giphy.gif">
   
-- 🌱 my creodo is always believe in yourself
+- 🌱 My creodo is always believe in yourself
  
 
  
@@ -38,7 +38,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="55"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="55" height="55"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original-wordmark.svg" title="Firefox" alt="Firefox" width="55"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="55"/>&nbsp; 
+  <img src="https://d2h1nbmw1jjnl.cloudfront.net/company_directory_entries/company_logos/000/000/328/original/bstack_2x.png?1582638320" width="45"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" title="Android" alt="Android" width="55"/>&nbsp;   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="45"/>&nbsp;                       
   <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="XCode" alt="XCode" width="55"/>&nbsp;                                 
@@ -50,7 +50,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple" alt="Apple" width="55"/>&nbsp;                                 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" width="45"/>&nbsp;
   <img src="https://blog.jetbrains.com/wp-content/uploads/2019/01/pycharm_icon.svg" width="40" height="40"  alt="PyCharm"/>
-  <img src="https://d2h1nbmw1jjnl.cloudfront.net/company_directory_entries/company_logos/000/000/328/original/bstack_2x.png?1582638320" width="45"/>&nbsp;
+  
   <div align="left">
   
 <!--
