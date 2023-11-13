@@ -1,6 +1,6 @@
  <p align="center">
   
-  <img  src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" Width="800"   height="500"> 
+  <img  src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" Width="700"   height="500"> 
   
  </p>
  
