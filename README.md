@@ -1,5 +1,9 @@
- <p align="center">                                                                                                                                                            <img  src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" Width="1000"   height="700">          
+ <p align="center">
+  
+  <img  src="https://media.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif" Width="900"   height="600"> 
+  
  </p>
+ 
 
 ---
 
@@ -46,7 +50,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple" alt="Apple" width="55"/>&nbsp;                                 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/safari/safari-original.svg" width="45"/>&nbsp;
   <img src="https://blog.jetbrains.com/wp-content/uploads/2019/01/pycharm_icon.svg" width="40" height="40"  alt="PyCharm"/>
-  <img src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" width="50" height="50" />&nbsp; &nbsp; &nbsp; &nbsp;
   <img src="https://d2h1nbmw1jjnl.cloudfront.net/company_directory_entries/company_logos/000/000/328/original/bstack_2x.png?1582638320" width="45"/>&nbsp;
   <div align="left">
   
